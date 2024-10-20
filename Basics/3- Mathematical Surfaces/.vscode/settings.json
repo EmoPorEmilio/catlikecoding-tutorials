@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "2- Building a Graph.sln"
+    "dotnet.defaultSolution": "3- Mathematical Surfaces.sln"
 }
